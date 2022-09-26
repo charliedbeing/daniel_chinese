@@ -1,0 +1,30 @@
+
+.pinyin {
+    color:black;
+}
+
+/* .pinyin {
+    color:red;
+} */
+
+.top{
+    text-align: center;
+}
+
+body{
+    margin:0;
+    background-color: bisque;
+}
+
+.books{
+   margin-left: 40%;
+}
+
+.box{
+    font-size: large;
+    background-color: #cce8cf;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
