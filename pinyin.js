@@ -163,8 +163,8 @@ function createTable(data){
         row_pinyin.appendChild(cell_num);
 
 
-        for(var j=0; j<19;j++){
-            count = i*19 + j;
+        for(var j=0; j<17;j++){
+            count = i*17 + j;
             var cell_piyin = document.createElement('td');
          
             var cell_zi = document.createElement('td');
